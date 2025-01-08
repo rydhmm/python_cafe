@@ -33,5 +33,6 @@ Select Items: Use the dropdown to choose items, adjust quantities with +/-.
 Add to Order: Add items to the summary.
 Modify Order: Delete specific items from the summary.
 Payment: Select "Cash" or "Online" and scan QR codes for payment or kitchen orders.
+
 Contributions welcome! Fork and create pull requests.
 
