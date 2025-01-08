@@ -18,7 +18,7 @@ How to Run
 
 Clone the repo:
 
-git clone https://github.com/your-username/python-cafe-management.git
+git clone https:https://github.com/rydhmm/python_cafe
 
 Install dependencies:
 pip install pywhatkit qrcode pillow
