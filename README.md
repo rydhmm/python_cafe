@@ -1,3 +1,5 @@
+                                       Python Cafe Management System
+                                       
 This Python-based GUI app manages cafe orders with a user-friendly interface for menu selection, order summaries, payment options, and QR code generation.
 Perfect for exploring Python's GUI capabilities and utility integration.
 
